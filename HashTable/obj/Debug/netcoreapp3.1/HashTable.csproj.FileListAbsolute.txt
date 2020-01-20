@@ -1,0 +1,11 @@
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\obj\Debug\netcoreapp3.1\HashTable.csprojAssemblyReference.cache
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\kilian\source\Git Repos\hash-table-class-KilianSL\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
