@@ -7,12 +7,12 @@ namespace HashTable
     class HashTable  //hash table implementation for string values
     {
         private LinkedList<string>[] values;
-        public int LoadFactor { get; set; }
+        private int count;
         private int Size;
 
         public HashTable(int size)
         {
-            LoadFactor = 0;
+            count = 0;
             Size = size;
             values = new LinkedList<string>[size];
         }
@@ -29,6 +29,7 @@ namespace HashTable
             {
                 values[index].Add(item);
             }
+            count++;
         }
 
         public bool Search(string item)
@@ -41,6 +42,7 @@ namespace HashTable
         {
             int index = Hash(item);
             values[index].Remove(item);
+            count--;
         }
 
         public LinkedList<string>[] GetValues()
@@ -81,6 +83,12 @@ namespace HashTable
                 hash += b;
             }
             return hash % Size;
+        }
+
+        public double GetLoadFactor()
+        {
+            double lf = Convert.ToDouble(count) / Convert.ToDouble(Size);
+            return lf * 100;
         }
     }
 }
